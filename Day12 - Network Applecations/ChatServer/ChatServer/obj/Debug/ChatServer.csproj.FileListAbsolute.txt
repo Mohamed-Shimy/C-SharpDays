@@ -1,0 +1,9 @@
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Work\Instructor\Material\C#\Intake 37\Day12\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache

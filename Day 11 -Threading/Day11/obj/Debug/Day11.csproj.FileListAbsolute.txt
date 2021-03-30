@@ -1,0 +1,6 @@
+D:\Work\Instructor\Material\C#\Intake 37\Day11\Day11\bin\Debug\Day11.exe.config
+D:\Work\Instructor\Material\C#\Intake 37\Day11\Day11\bin\Debug\Day11.exe
+D:\Work\Instructor\Material\C#\Intake 37\Day11\Day11\bin\Debug\Day11.pdb
+D:\Work\Instructor\Material\C#\Intake 37\Day11\Day11\obj\Debug\Day11.csprojResolveAssemblyReference.cache
+D:\Work\Instructor\Material\C#\Intake 37\Day11\Day11\obj\Debug\Day11.exe
+D:\Work\Instructor\Material\C#\Intake 37\Day11\Day11\obj\Debug\Day11.pdb
